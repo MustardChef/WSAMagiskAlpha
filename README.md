@@ -1,4 +1,4 @@
-<div align="center"> <picture><img src="https://img.shields.io/github/downloads/MustardChef/WSAMagiskDelta/total?label=Total%20Downloads&style=for-the-badge"/></picture> <a href="https://ko-fi.com/N4N0K08AC"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a></div>
+<div align="center"> <picture><img src="https://img.shields.io/github/downloads/MustardChef/WSAMagiskAlpha/total?label=Total%20Downloads&style=for-the-badge"/></picture> <a href="https://ko-fi.com/N4N0K08AC"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a></div>
 
 <div align="center">
 <h1>WSABuilds: Magisk Alpha</h1>
